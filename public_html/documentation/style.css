@@ -1,0 +1,35 @@
+/*
+header{
+    background-color: #000000;
+    color: whitesmoke;
+}
+
+.about-me{
+    background-color: #0000FF;
+    color: white;
+}
+*/
+
+
+
+.hero-img {
+    height: 100vh;
+    background: no-repeat center url("desert.JPG");
+    background-size: contain;
+
+}
+
+body {
+    font-family: sans-serif;
+}
+/*nav{*/
+/*    background-color: #000000;*/
+/*    color: white;*/
+/*}*/
+
+/*
+.tasha deschenie {
+    font-weight: bolder;
+}
+*/
+
