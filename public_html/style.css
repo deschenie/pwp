@@ -1,0 +1,59 @@
+/*
+header{
+    background-color: #000000;
+    color: whitesmoke;
+}
+
+.about-me{
+    background-color: #0000FF;
+    color: white;
+}
+*/
+
+.hero-img {
+    min-height: 50vh;
+    width: 100%;
+    background: no-repeat center url("images/hero-image/desert.JPG");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+@media all and (min-width: 900px ) {
+}
+
+
+/*.carousel img {
+    width: 100%;
+    height: auto;
+}*/
+
+/*.carousel-img {
+    min-height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}*/
+
+/*.exampleModal {
+    margin: auto;
+}*/
+
+/*nav{*/
+/*    background-color: #000000;*/
+/*    color: white;*/
+/*}*/
+
+/*
+.tasha deschenie {
+    font-weight: bolder;
+}
+*/
+
+/*.splide__slide img {
+    width: 100%;
+    height: auto;*/
+
